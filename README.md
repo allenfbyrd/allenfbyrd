@@ -2,7 +2,7 @@
 
 **AI, cybersecurity & GRC.** Architecting people-first AI, cybersecurity, and governance — for Fortune 500s and federal agencies.
 
-📍 McLean, VA · 🔗 [allenfbyrd.com](https://allenfbyrd.com) · 💼 [LinkedIn](https://linkedin.com/in/allenfbyrd) · 📧 [allen@allenfbyrd.com](mailto:allen@allenfbyrd.com) · 📞 [Public Cell](tel:+15712931320)
+📍 McLean, VA · 🔗 [allenfbyrd.com](https://allenfbyrd.com) · 💼 [LinkedIn](https://linkedin.com/in/allenfbyrd) · 📧 [allen@allenfbyrd.com](mailto:allen@allenfbyrd.com) · 📞 +1 (571) 293-1320 (public cell)
 
 Open to new collaborators, team members, work, and business opportunities.
 
@@ -12,7 +12,7 @@ Open to new collaborators, team members, work, and business opportunities.
 
 I build scalable solutions at the intersection of **artificial intelligence**, **cybersecurity**, and **governance, risk & compliance** — with an emphasis on clear ownership, operational pragmatism, and teams that take pride in doing the fundamentals well. Practicality is not the same as timidity: the AI products that hold up under audit, regulatory scrutiny, and adversarial use are the ones built with security and governance as operational practices, not mere policy exercises.
 
-**TL;DR:** I like building cool things and tinkering with electronics. When I make money off of it, that's cool, but I'll be doing it until I kick the bucket regardless. **Come do it with me!**
+**TL;DR:** I like building cool things and tinkering with electronics. When I make money off of it, that's great, but I'll be doing it until I kick the bucket regardless. **Come do it with me!**
 
 ## Selected open-source work
 
@@ -30,6 +30,6 @@ Authored an additive PR to the Perplexity MCP server adding `perplexity_research
 
 ## Working together
 
-The fastest way to reach me is by [email](mailto:allen@allenfbyrd.com) or my [public cell](tel:+15712931320) (feel free to text). First reply within 48 hours, usually faster. For introductions and quick questions, a paragraph is plenty. I'm friendly and love meeting new folks, so don't be shy. Looking forward to chatting with you!
+The fastest way to reach me is by [email](mailto:allen@allenfbyrd.com) or my [public cell](tel:+15712931320) (it's best to text it first, please). First reply within 48 hours, usually faster. For introductions and quick questions, a paragraph is plenty. I'm friendly and love meeting new folks, so don't be shy. Looking forward to chatting with you!
 
 For background, current status, and résumé: **[allenfbyrd.com](https://allenfbyrd.com)**.
