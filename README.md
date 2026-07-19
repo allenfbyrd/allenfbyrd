@@ -28,6 +28,10 @@ Policy-as-code for **FERPA + Title IV**: a deterministic guardrail that decides 
 
 A rigorous, net-new research-investigation engine (the `polycentric-labcoat` Claude Code skill). Fans a question across a live multi-vendor model fleet (Gemini · GPT · Grok · DeepSeek), then **kills** every finding it can't trace to a primary source, validates three ways, and returns a ruthlessly ranked synthesis — with a fail-closed redaction gate and a stop-and-ask gate at every phase. On its first real run it caught a four-model *unanimous* false denial of a real published standard. Ships with the [`sonar-router`](https://github.com/Polycentric-Labs/sonar-router) query-routing companion (MIT).
 
+### [`Polycentric-Labs/voidseal`](https://github.com/Polycentric-Labs/voidseal) — *PowerShell · Hyper-V · sandboxing · MIT*
+
+Risk-tiered, host-verified-sealed Hyper-V sandbox provisioner. Untrusted code and agent loops run inside tiered isolation — from network-restricted to fully air-gapped — behind a **fail-closed seal gate**: the workload starts only after the host verifies the VM actually has the isolation its tier demands. Inject files, run the workload, capture results across a one-way boundary, tear it down.
+
 ## Working together
 
 The fastest way to reach me is by [email](mailto:allen@allenfbyrd.com) or my [public cell](tel:+15712931320) (it's best to text it first, please). First reply within 48 hours, usually faster. For introductions and quick questions, a paragraph is plenty. I'm friendly and love meeting new folks, so don't be shy. Looking forward to chatting with you!
